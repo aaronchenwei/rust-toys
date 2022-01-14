@@ -1,10 +1,18 @@
-# rust-toys
+# 1. rust-toys
 
 This is a toy code repo that contains some naive code when learning Rust with book [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html).
 
-# Tips
+# 2. Tips
 
-## Rust crates.io 索引镜像
+## 2.1. Visual Studio Code + Rust
+
+- rust-analyzer - https://rust-analyzer.github.io/
+2.2. - Better TOML
+---
+- Error Lens
+- CodeLLDB
+
+## 2.3. Rust crates.io 索引镜像
 
 编辑 ~/.cargo/config 文件，添加以下内容：
 
